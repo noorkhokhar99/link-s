@@ -10,3 +10,5 @@ https://jlcpcb.com/?gclid=CjwKCAiA9JbwBRAAEiwAnWa4Q5huhtHWgUwZZtTsXnZ9VeinQJZUIh
 https://github.com/adafruit/Adafruit-MLX90614-Library
 
 http://findandmount.com/download/
+
+https://github.com/microsoft/Cognitive-Face-Python
