@@ -41,3 +41,4 @@ https://github.com/IoTGuruLive
 
 
 
+https://www.hackster.io/107329/aggrofox-large-scale-and-urban-agriculture-iot-solution-8155fe
